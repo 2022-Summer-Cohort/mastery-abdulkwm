@@ -30,6 +30,10 @@ public class Topic {
         return name;
     }
 
+    public void addPost(Post post) {
+        posts.add(post);
+    }
+
     public Collection<Post> getPosts() {
         return posts;
     }
