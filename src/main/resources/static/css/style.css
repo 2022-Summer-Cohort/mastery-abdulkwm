@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat&display=swap');
 
 :root{
-    --dark-background: #2F3E46;
-    --text: #cad2c5;
-    --light-highlight: #84A98C;
-    --dark-highlight: #52796f;
-    --light-background:#354f52;
+    --dark-background: #7ea7bc;
+    --text: #ffffff;
+    --light-highlight: #010101;
+    --dark-highlight: #7b15b5;
+    --light-background:#50c69b;
 }
 
 h1{
@@ -19,7 +19,7 @@ h2{
     background-color: var(--light-background);
 }
 html{
-    font-family: 'Montserrat', sans-serif;
+    font-family:'Courier New', Courier, monospace;
     font-size: 16px;
     background-color: var(--dark-background);
     color: var(--text);
